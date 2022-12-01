@@ -16,8 +16,9 @@ import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.junit.jupiter.MockitoExtension;
 
-import com.esprit.examen.entities.Operateur;
-import com.esprit.examen.repositories.OperateurRepository;
+import com.devops.examen.entities.Operateur;
+import com.devops.examen.repositories.OperateurRepository;
+import com.devops.examen.services.OperateurServiceImpl;
 
 
 

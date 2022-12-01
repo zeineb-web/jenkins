@@ -11,7 +11,8 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import com.esprit.examen.entities.Operateur;
+import com.devops.examen.entities.Operateur;
+import com.devops.examen.services.IOperateurService;
 @SpringBootTest
 public class OperateurServiceImplTest {
 
